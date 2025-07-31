@@ -3,5 +3,8 @@ Hi Bro, Things are gonna be different now.
 Hello Guys, This is for cherry-picking.
 hi, fetch will work.
 1
+<<<<<<< HEAD
 2
 3
+=======
+>>>>>>> parent of 2a7908d (2ndcommit)
